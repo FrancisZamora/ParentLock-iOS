@@ -1,0 +1,6 @@
+framework module ArcGIS {
+  umbrella header "ArcGIS.h"
+ 
+  export *
+  module * { export * }
+}
